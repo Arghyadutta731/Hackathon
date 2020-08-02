@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="UrbanTest1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Urbanladder.test.UrbanladderTest">
+        <methods>
+          <include name="sortBy"/>
+          <include name="PopUp"/>
+          <include name="createDriver"/>
+          <include name="includeStock"/>
+          <include name="writeExcel"/>
+          <include name="titleVerify"/>
+          <include name="clickBookshelves"/>
+          <include name="priceChoice"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="storageChoice"/>
+          <include name="filterChoice"/>
+          <include name="setRange"/>
+          <include name="checkStorageType"/>
+        </methods>
+      </class> <!-- com.Urbanladder.test.UrbanladderTest -->
+    </classes>
+  </test> <!-- UrbanTest1(failed) -->
+  <test thread-count="5" name="UrbanTest2(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.Urbanladder.test.UrbanladderTest">
+        <methods>
+          <include name="sortBy"/>
+          <include name="PopUp"/>
+          <include name="createDriver"/>
+          <include name="includeStock"/>
+          <include name="writeExcel"/>
+          <include name="titleVerify"/>
+          <include name="clickBookshelves"/>
+          <include name="priceChoice"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="storageChoice"/>
+          <include name="filterChoice"/>
+          <include name="setRange"/>
+          <include name="checkStorageType"/>
+        </methods>
+      </class> <!-- com.Urbanladder.test.UrbanladderTest -->
+    </classes>
+  </test> <!-- UrbanTest2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

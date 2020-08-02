@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UrbanLadder" duration-ms="37059" started-at="2020-07-28T00:44:03 IST" finished-at="2020-07-28T00:44:40 IST">
+    <groups>
+    </groups>
+    <test name="UrbanTest1" duration-ms="37059" started-at="2020-07-28T00:44:03 IST" finished-at="2020-07-28T00:44:40 IST">
+      <class name="com.Urbanladder.test.UrbanladderTest">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="createDriver" is-config="true" duration-ms="8956" started-at="2020-07-28T00:44:03 IST" finished-at="2020-07-28T00:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="titleVerify" duration-ms="18" started-at="2020-07-28T00:44:12 IST" finished-at="2020-07-28T00:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerify -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="329" started-at="2020-07-28T00:44:12 IST" finished-at="2020-07-28T00:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="clickBookshelves()[pri:1, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="clickBookshelves" duration-ms="5323" started-at="2020-07-28T00:44:12 IST" finished-at="2020-07-28T00:44:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBookshelves -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="52" started-at="2020-07-28T00:44:18 IST" finished-at="2020-07-28T00:44:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="priceChoice()[pri:2, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="priceChoice" duration-ms="1227" started-at="2020-07-28T00:44:18 IST" finished-at="2020-07-28T00:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceChoice -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="78" started-at="2020-07-28T00:44:19 IST" finished-at="2020-07-28T00:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="setRange()[pri:3, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="setRange" duration-ms="3579" started-at="2020-07-28T00:44:19 IST" finished-at="2020-07-28T00:44:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRange -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="40" started-at="2020-07-28T00:44:22 IST" finished-at="2020-07-28T00:44:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="storageChoice()[pri:4, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="storageChoice" duration-ms="2824" started-at="2020-07-28T00:44:22 IST" finished-at="2020-07-28T00:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storageChoice -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="64" started-at="2020-07-28T00:44:25 IST" finished-at="2020-07-28T00:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="checkStorageType()[pri:5, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="checkStorageType" duration-ms="94" started-at="2020-07-28T00:44:25 IST" finished-at="2020-07-28T00:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStorageType -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="42" started-at="2020-07-28T00:44:25 IST" finished-at="2020-07-28T00:44:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="includeStock()[pri:6, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="includeStock" duration-ms="2113" started-at="2020-07-28T00:44:26 IST" finished-at="2020-07-28T00:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- includeStock -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="62" started-at="2020-07-28T00:44:28 IST" finished-at="2020-07-28T00:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="filterChoice()[pri:7, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="filterChoice" duration-ms="305" started-at="2020-07-28T00:44:28 IST" finished-at="2020-07-28T00:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterChoice -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="37" started-at="2020-07-28T00:44:28 IST" finished-at="2020-07-28T00:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="sortBy()[pri:8, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="sortBy" duration-ms="74" started-at="2020-07-28T00:44:28 IST" finished-at="2020-07-28T00:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortBy -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="929" started-at="2020-07-28T00:44:28 IST" finished-at="2020-07-28T00:44:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="PopUp()[pri:9, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="PopUp" duration-ms="8454" started-at="2020-07-28T00:44:29 IST" finished-at="2020-07-28T00:44:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopUp -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="46" started-at="2020-07-28T00:44:38 IST" finished-at="2020-07-28T00:44:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="writeExcel()[pri:10, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="writeExcel" duration-ms="1610" started-at="2020-07-28T00:44:38 IST" finished-at="2020-07-28T00:44:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeExcel -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="endReport" is-config="true" duration-ms="38" started-at="2020-07-28T00:44:39 IST" finished-at="2020-07-28T00:44:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Urbanladder.test.UrbanladderTest@71d15f18]" name="tearDown" is-config="true" duration-ms="710" started-at="2020-07-28T00:44:39 IST" finished-at="2020-07-28T00:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Urbanladder.test.UrbanladderTest -->
+    </test> <!-- UrbanTest1 -->
+  </suite> <!-- UrbanLadder -->
+</testng-results>

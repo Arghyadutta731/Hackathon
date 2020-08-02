@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 2, Errors: 0, Skipped: 22, Time elapsed: 1.281 s <<< FAILURE! - in TestSuite
+com.Urbanladder.test.UrbanladderTest.createDriver  Time elapsed: 1.012 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\Sayan\Desktop\project\src\main\resources\ObjectRepository\config.properties (The system cannot find the path specified)
+
+com.Urbanladder.test.UrbanladderTest.tearDown  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+
